@@ -1,4 +1,3 @@
-```cpp
 ll BSGS(ll a, ll b, ll p)
 {
     a %= p;
@@ -20,4 +19,3 @@ ll BSGS(ll a, ll b, ll p)
     }
     return -1;
 }
-```
